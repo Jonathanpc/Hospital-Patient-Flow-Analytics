@@ -235,8 +235,6 @@ The solution follows a modern data lakehouse architecture with the following com
 
 ### 3. Schema Evolution in Streaming
 **Problem:** Pipeline failures when new fields were added or fields were missing in incoming data.
-<img width="992" height="781" alt="Screenshot 2025-12-11 at 9 32 05 PM" src="https://github.com/user-attachments/assets/c9d75f9a-74d1-45f3-bd3e-46c83db519c2" />
-
 
 **Solution:**
 - Enabled `mergeSchema: true` option in Delta writeStream
