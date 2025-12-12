@@ -1,8 +1,6 @@
-# Patient Flow & Bed Occupancy Analytics
+# Hospital Patient Flow Analytics
 
 A real-time data engineering pipeline that processes hospital patient flow data using Azure cloud services, implementing a medallion architecture (Bronze, Silver, Gold) for analytics and business intelligence.
-
-![Architecture Diagram](architecture.png)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
